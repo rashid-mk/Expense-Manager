@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardElevation="8dp"
+    app:cardCornerRadius="8dp"
+    android:layout_margin="16dp"
+    app:cardUseCompatPadding="true">
+
+    <RelativeLayout
+        android:id="@+id/re"
+        android:layout_width="886dp"
+        android:layout_height="207dp"
+        android:padding="15dp">
+
+        <TextView
+            android:id="@+id/newbook"
+            android:layout_width="239dp"
+            android:layout_height="63dp"
+            android:layout_marginLeft="10dp"
+            android:text="FOOD"
+            android:textColor="@color/black"
+            android:textSize="50dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="186dp"
+            android:layout_height="75dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="458dp"
+            android:layout_marginTop="0dp"
+            android:layout_marginEnd="226dp"
+            android:layout_marginBottom="118dp"
+            android:text="TOTAL"
+            android:textSize="40dp" />
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="173dp"
+            android:layout_height="68dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="646dp"
+            android:layout_marginTop="101dp"
+            android:layout_marginEnd="52dp"
+            android:layout_marginBottom="23dp"
+            android:text="OUTTOT" />
+
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="207dp"
+            android:layout_height="85dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="14dp"
+            android:layout_marginTop="93dp"
+            android:layout_marginEnd="661dp"
+            android:layout_marginBottom="15dp"
+            android:text="CASH IN"
+            android:textSize="40dp" />
+
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="188dp"
+            android:layout_height="85dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="208dp"
+            android:layout_marginTop="93dp"
+            android:layout_marginEnd="485dp"
+            android:layout_marginBottom="15dp"
+            android:text="IN TOT" />
+
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_width="246dp"
+            android:layout_height="87dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="387dp"
+            android:layout_marginTop="91dp"
+            android:layout_marginEnd="237dp"
+            android:layout_marginBottom="13dp"
+            android:text="CASH OUT"
+            android:textSize="40dp" />
+
+        <TextView
+            android:id="@+id/textView12"
+            android:layout_width="218dp"
+            android:layout_height="80dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="652dp"
+            android:layout_marginEnd="0dp"
+            android:layout_marginBottom="111dp"
+            android:text="TOT" />
+
+
+
+
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

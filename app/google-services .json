@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "395164086582",
+    "project_id": "mini-project-1be74",
+    "storage_bucket": "mini-project-1be74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395164086582:android:68b6a077dfc3c6c8008397",
+        "android_client_info": {
+          "package_name": "com.msqapps.expensemanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395164086582-pmbhhc5guc64j1n3hksksd22jg2akf8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAewksQYQAjjRR9O7VeAsi1AeedjZ8n3uQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395164086582-pmbhhc5guc64j1n3hksksd22jg2akf8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

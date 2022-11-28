@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Games/miniproject/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2335" />
+        <entry key="..\:/Games/miniproject/app/src/main/res/drawable/coustom_input.xml" value="0.2245" />
+        <entry key="..\:/Games/miniproject/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.1055" />
+        <entry key="..\:/Games/miniproject/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.2245" />
+        <entry key="..\:/Games/miniproject/app/src/main/res/drawable/ic_baseline_exit_to_app_24.xml" value="0.2095" />
+        <entry key="..\:/Games/miniproject/app/src/main/res/drawable/ic_baseline_insert_emoticon_24.xml" value="0.2245" />
+        <entry key="..\:/Games/miniproject/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.15" />
+        <entry key="..\:/Games/miniproject/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1055" />
+        <entry key="..\:/Games/miniproject/app/src/main/res/drawable/ic_baseline_vpn_key_24.xml" value="0.1055" />
+        <entry key="..\:/Games/miniproject/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2335" />
+        <entry key="..\:/Games/miniproject/app/src/main/res/drawable/layoutborder.xml" value="0.2055" />
+        <entry key="..\:/Games/miniproject/app/src/main/res/drawable/logineditshape.xml" value="0.15" />
+        <entry key="..\:/Games/miniproject/app/src/main/res/drawable/popupborder.xml" value="0.1995" />
+        <entry key="..\:/Games/miniproject/app/src/main/res/drawable/search.xml" value="0.2325" />
+        <entry key="..\:/Games/miniproject/app/src/main/res/font/lobster_two.xml" value="0.2791666666666667" />
+        <entry key="..\:/Games/miniproject/app/src/main/res/layout-w1240dp/activity_login1.xml" value="0.187890625" />
+        <entry key="..\:/Games/miniproject/app/src/main/res/layout-w936dp/activity_login1.xml" value="0.159765625" />
+        <entry key="..\:/Games/miniproject/app/src/main/res/layout/activity_add_category.xml" value="0.25" />
+        <entry key="..\:/Games/miniproject/app/src/main/res/layout/activity_addbook.xml" value="0.21302083333333333" />
+        <entry key="..\:/Games/miniproject/app/src/main/res/layout/activity_cashin.xml" value="0.21302083333333333" />
+        <entry key="..\:/Games/miniproject/app/src/main/res/layout/activity_cashout.xml" value="0.25" />
+        <entry key="..\:/Games/miniproject/app/src/main/res/layout/activity_category.xml" value="0.25" />
+        <entry key="..\:/Games/miniproject/app/src/main/res/layout/activity_categoryadapter.xml" value="0.25" />
+        <entry key="..\:/Games/miniproject/app/src/main/res/layout/activity_desccashout.xml" value="0.23020833333333332" />
+        <entry key="..\:/Games/miniproject/app/src/main/res/layout/activity_description.xml" value="0.25" />
+        <entry key="..\:/Games/miniproject/app/src/main/res/layout/activity_description2.xml" value="0.22083333333333333" />
+        <entry key="..\:/Games/miniproject/app/src/main/res/layout/activity_firstpage.xml" value="0.25" />
+        <entry key="..\:/Games/miniproject/app/src/main/res/layout/activity_forgotpassword.xml" value="0.20208333333333334" />
+        <entry key="..\:/Games/miniproject/app/src/main/res/layout/activity_home.xml" value="0.264" />
+        <entry key="..\:/Games/miniproject/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Games/miniproject/app/src/main/res/layout/activity_login1.xml" value="0.22708333333333333" />
+        <entry key="..\:/Games/miniproject/app/src/main/res/layout/activity_main.xml" value="0.2359375" />
+        <entry key="..\:/Games/miniproject/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/Games/miniproject/app/src/main/res/layout/activity_splash2.xml" value="0.25" />
+        <entry key="..\:/Games/miniproject/app/src/main/res/layout/decs.xml" value="0.25" />
+        <entry key="..\:/Games/miniproject/app/src/main/res/layout/drop_down_item.xml" value="0.1875" />
+        <entry key="..\:/Games/miniproject/app/src/main/res/layout/layout.xml" value="0.176" />
+        <entry key="..\:/Games/miniproject/app/src/main/res/layout/list_item.xml" value="0.264" />
+        <entry key="..\:/Games/miniproject/app/src/main/res/layout/po.xml" value="0.19166666666666668" />
+        <entry key="..\:/Games/miniproject/app/src/main/res/layout/popup.xml" value="0.18632478632478633" />
+        <entry key="..\:/Games/miniproject/app/src/main/res/layout/recyle.xml" value="0.23333333333333334" />
+        <entry key="..\:/Games/miniproject/app/src/main/res/layout/testfood.xml" value="0.21927083333333333" />
+        <entry key="..\:/Games/miniproject/app/src/main/res/menu/menulogout.xml" value="0.24583333333333332" />
+        <entry key="..\:/Games/miniproject/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1035" />
+        <entry key="..\:/Games/miniproject/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1235" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
